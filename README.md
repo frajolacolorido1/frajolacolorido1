@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frajolacolorido1
 - 👀 I’m interested in learn programar nova linguagem
-- 🌱 I’m currently learning a progamar recentemente a linguagem de javaScript e scratch
+- 🌱 I’m currently learning  progamar recentemente a linguagem de javaScript e scratch
 - 📫 How to reach me pelo meu email:kauani.quirino@escola.pr.gov.br
 
 <!---
