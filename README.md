@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @frajolacolorido1
-- 👀 I’m interesteda in learn programar nova linguage
+- 👀 I’m interesteda in learn programar nova lingua
 - 🌱 I’m currently learning  progamar recentemente a linguagem de javaScript e scratch
 - 📫 How to reach me pelo meu email:kauani.quirino@escola.pr.gov.br
 
